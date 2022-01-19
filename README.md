@@ -29,4 +29,4 @@ This project is licensed under the CC by NC SA Licence. see the LICENSE.md file 
 
 
 # Version History :
-0.1 : PhP "vanilla" - Mysql (database use is Mariadb v.10.4.22) - initial Release
+0.1 : written with Php "vanilla" - initial Release
