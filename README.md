@@ -8,6 +8,7 @@ Application for a chemistry laboratory : Analysis of the consumption of solvents
 # Getting Started
 
 -- Dependencies
+LAMP serveur.
 
 --- SGBD  
 
@@ -18,6 +19,8 @@ Test have been done on Mariadb v10 and MySQL v5.
 --Executing program
 
 # Help : 
+-- save files : you need to change the mysqldump command by the Linux command.
+Beware : In this version there is not admin session and saving and importation of the database have security issues.
 
 # Authors : 
  nicorenard @ nicolas.renard_at_univ-brest.fr
@@ -29,4 +32,8 @@ This project is licensed under the CC by NC SA Licence. see the LICENSE.md file 
 
 
 # Version History :
-0.1 : written with Php "vanilla" - initial Release
+0.1 : written with Php "vanilla" - initial Release - Do NOT USE -
+Prototype and idear the apps.
+
+# Ressources : 
+icon : https://icones8.fr/
