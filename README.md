@@ -1,7 +1,5 @@
 # DIONISOS
 
-![logo_apps](https://user-images.githubusercontent.com/39690470/150090668-3f23d222-e42d-4879-8267-885edb42645d.png)
-
 Application for a chemistry laboratory : Analysis of the consumption of solvents for solvent drying machines. (e.g. SPS type from MBraun)
 
 # Getting Started
