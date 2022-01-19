@@ -2,6 +2,9 @@
 
 Application for a chemistry laboratory : Analysis of the consumption of solvents for solvent drying machines. (e.g. SPS type from MBraun)
 
+![logo_apps_mini](https://user-images.githubusercontent.com/39690470/150091810-adcce465-3acf-4c3a-b96b-51c83f357669.png)
+
+
 # Getting Started
 
 -- Dependencies
