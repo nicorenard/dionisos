@@ -33,7 +33,7 @@ This project is licensed under the CC by NC SA Licence. see the LICENSE.md file 
 
 # Version History :
 0.1 : written with Php "vanilla" - initial Release - Do NOT USE -
-Prototype and idear the apps.
+Prototype of the apps.
 
 # Ressources : 
 icon : https://icones8.fr/
